@@ -1,0 +1,14 @@
+{
+    "name": "Kerry-Tracking",
+    "version": "1.0.0",
+    "description": "API Web Kerry for tracking shipment",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.10",
+        "express": "^4.19.2",
+        "puppeteer": "^19.11.1"
+    }
+}
